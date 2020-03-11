@@ -44,7 +44,7 @@ Kodak : discours ancien des industriels sur une simplicité technique, pour se l
 * Outils alternatifs, pensée alternative ?
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/lisa.gif" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/thinking.gif" data-background-size="contain" -->
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/typingsmall.png" data-background-size="contain" -->
@@ -233,7 +233,7 @@ Wiki : L'épigénétique (du grec ancien ἐπί, épí, « au-dessus de », et 
 <!-- .element: style="font-size:1.7rem; text-align:justify" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/twitter.png" data-background-size="contain"-->
+<!-- .slide: data-background-image="img/wattpad.png" data-background-size="contain"-->
 <!-- .slide: class="hover" -->
 
 ### Quelle littératie numérique ?
@@ -241,7 +241,7 @@ Wiki : L'épigénétique (du grec ancien ἐπί, épí, « au-dessus de », et 
 * capacité de mobiliser l’écriture, de comprendre et d'utiliser l’information écrite
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/twitter.png" data-background-size="contain"-->
+<!-- .slide: data-background-image="img/wattpad.png" data-background-size="contain"-->
 <!-- .slide: class="hover" -->
 
 ## CMS, réseaux sociaux : vers une génération d'illettrés ?
@@ -411,13 +411,13 @@ On a repris le principe de modularité dans les travaux d'Antoine Fauchié : tou
 Au fur et à mesure de la conception, nous avons pu remplacer un outil par un autre, nous avons pu améliorer ou optimiser tel ou tel aspect de la chaîne.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/stylo_fullopen.png" background-size="contain" -->
+<!-- .slide: data-background-image="img/stylo_fullopen.png" data-background-size="contain" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/stylo_fullInterface_2019_cropped_marqued.png" background-size="contain" -->
+<!-- .slide: data-background-image="img/stylo_fullInterface_2019_cropped_marqued.png" data-background-size="contain" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/hypothesis.png" -->
+<!-- .slide: data-background-image="img/hypothesis.png" data-background-size="contain" -->
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -454,4 +454,4 @@ Cette culture n'est rien d'autre que la littératie numérique qui ajoute au sav
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/thinking.gif" -->
+<!-- .slide: data-background-image="img/lisa.gif" -->
