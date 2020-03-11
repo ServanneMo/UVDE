@@ -1,7 +1,9 @@
 <!-- .slide: data-background-image="img/typingsmall.png" -->
 <!-- .slide: class="hover"-->
 
-# Savoir(s) écrire. Reprendre la main sur nos outils d'écriture
+# Savoir(s) écrire
+
+Littératie numérique et écritures alternatives
 
 <br/>Servanne Monjour (servanne.monjour@paris-sorbonne.fr)
 
@@ -44,8 +46,7 @@ Kodak : discours ancien des industriels sur une simplicité technique, pour se l
 ===
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/hieroglyphes.jpeg" data-background-size="contain" -->
-<!-- .slide: class="hover" -->
+<!-- .slide: data-background-image="img/typingsmall.png" data-background-size="contain" -->
 
 ## De la raison graphique à la déraison numérique ?
 
@@ -85,7 +86,7 @@ L’écriture alphabétique est quant à elle encore plus récente, puisqu’ell
 On voit qu'avec l'écriture alphabétique, émerge déjà un premier déplacement. L'alphabet est un code : il engage un phénomène d'abstraction.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/didot.jpg" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/ciceron.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover" -->
 
 
@@ -135,6 +136,9 @@ Le texte écrit va favoriser la construction d'une connaissance systématique. L
 Dans le même temps, émergence aussi d'une forme de poésie graphique (organisation des mots sur la page : dimension graphique de l'écriture et du texte).
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/figure_1_kbh_71a22_180r_low-res.jpg" data-background-size="contain" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/Civic-Tech-2-696x453.jpg" -->
 <!-- .slide: class="hover" -->
 
@@ -178,7 +182,7 @@ Dans le même temps, émergence aussi d'une forme de poésie graphique (organisa
 <!-- .element: style="font-size:1.6rem; text-align:justify" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/defRestreinte.jpg" data-background-size="contain"-->
+<!-- .slide: data-background-image="img/Mondot.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
 ## Nouvelles manières d'écrire, nouvelles façons de penser/voir le monde
@@ -188,7 +192,7 @@ Dans le même temps, émergence aussi d'une forme de poésie graphique (organisa
 <!-- .element: style="font-size:1.6rem; text-align:justify" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/wikipedia.png" data-background-size="contain"-->
+<!-- .slide: data-background-image="img/mondot2.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
 ## Une mutation épigénétique
@@ -217,7 +221,7 @@ Wiki : L'épigénétique (du grec ancien ἐπί, épí, « au-dessus de », et 
 <!-- .element: style="font-size:1.7rem; text-align:justify" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/publi.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/defRestreinte.jpg" data-background-size="contain" -->
 <!-- .slide: class="hover" -->
 
 ## Les niveaux invisibles de l'écriture numérique
@@ -243,7 +247,7 @@ Wiki : L'épigénétique (du grec ancien ἐπί, épí, « au-dessus de », et 
 * Une illusion de désintermédiation (effacement des niveaux de l'écriture machine et de l'écriture du code)
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/twitter.png" data-background-size="contain"-->
+<!-- .slide: data-background-image="img/DRE351OXkAAJHxU.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover" -->
 
 ## Des monopoles éditoriaux
@@ -259,7 +263,7 @@ Nous avons avoir abandonnées aux GAFAM la réflexion (et l'implémentation) des
 Comprenez : ce sont les moyens de la production de la pensée qui sont ainsi laissées à quelques entreprises. Or vous savez que les moyens de la pensée ne sont pas sans effets sur la pensée elle-même.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/twitter.png" data-background-size="contain"-->
+<!-- .slide: data-background-image="img/DRE351OXkAAJHxU.jpg" data-background-size="contain"-->
 <!-- .slide: class="hover" -->
 
 ## L'écriture des données
@@ -273,7 +277,7 @@ Comprenez : ce sont les moyens de la production de la pensée qui sont ainsi lai
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/page_d_accueil_opt-2-edfe3.png" data-background-size="contain"-->
+<!-- .slide: data-background-image="img/couv.png" data-background-size="contain"-->
 <!-- .slide: class="hover"-->
 
 >Si nous sommes les premiers producteurs des traces numériques qui nous concernent, nous en sommes très peu auteurs. Les données produites à notre insu sont quantitativement plus importantes que celles que nous pensons maîtriser, dans un discours, une rhétorique consciente et personnelle. De plus nous sommes des « auteurs » quasiment analphabètes : nous avons peu accès, nous ne savons que très peu lire les données qui nous définissent. Et pourtant, d’autres savent lire et exploiter ces données. </br>Cécile Portier (2016)
@@ -305,10 +309,8 @@ Comprenez : ce sont les moyens de la production de la pensée qui sont ainsi lai
 * Encourager la collaboration, la discussion, l'échange
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/equipeecrinum.png" -->
-<!-- .slide: class="hover"-->
+<!-- .slide: data-background-image="img/CRCEN.png" -->
 
-## La CRC sur les écritures numériques
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/styloN_facebook.png" -->
@@ -317,9 +319,6 @@ Comprenez : ce sont les moyens de la production de la pensée qui sont ainsi lai
 ## *Stylo* : Un éditeur WYSIWYM pour les SHS
 * Un outil pour l'écriture universitaire
 * Une solution low-tech et une bonne dose de bricolage
-
-§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/styloN_facebook.png" -->
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -402,10 +401,10 @@ On a repris le principe de modularité dans les travaux d'Antoine Fauchié : tou
 Au fur et à mesure de la conception, nous avons pu remplacer un outil par un autre, nous avons pu améliorer ou optimiser tel ou tel aspect de la chaîne.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/stylo_fullopen.png" -->
+<!-- .slide: data-background-image="img/stylo_fullopen.png" background-size="contain" -->
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/stylo_fullInterface_2019_cropped_marqued.png" -->
+<!-- .slide: data-background-image="img/stylo_fullInterface_2019_cropped_marqued.png" background-size="contain" -->
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -419,7 +418,6 @@ Au fur et à mesure de la conception, nous avons pu remplacer un outil par un au
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/DRE351OXkAAJHxU.jpg" -->
-<!-- .slide: class="hover"-->
 
 ### écrire = écrire + structurer <!-- .element: style="color:#484848;" -->
 
@@ -429,10 +427,17 @@ Dans cette vision, l’écriture ne se résume plus seulement à écrire. Ecrire
 Cette culture n'est rien d'autre que la littératie numérique qui ajoute au savoir-lire-et-écrire la maîtrise du milieu d’écriture, une capacité à inscrire l’espace autant qu’à le structurer. Il s'agit de savoir autant évoluer dans cet environnement (l'habiter) que de le faire évoluer (le designer).
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/DRE351OXkAAJHxU.jpg" -->
+<!-- .slide: data-background-image="img/pink.png" -->
 <!-- .slide: class="hover"-->
 
-## *Pink my pad* : prise de note
+## *Pink my pad* : noter, collaborer
+* Une prise de note collective **et** collaborative
+* Une structuration des contenus (mots-clés, md)
+* Une possibilité de ludifier les notes (diversité des media)
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/pink.png" -->
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/DRE351OXkAAJHxU.jpg" -->
