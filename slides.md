@@ -296,7 +296,7 @@ Comprenez : ce sont les moyens de la production de la pensée qui sont ainsi lai
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/DRE351OXkAAJHxU.jpg" -->
+<!-- .slide: data-background-image="img/typingsmall.png" -->
 <!-- .slide: class="hover"-->
 
 ## Outils alternatifs, écritures et pensée alternatives ?
@@ -305,13 +305,13 @@ Comprenez : ce sont les moyens de la production de la pensée qui sont ainsi lai
 * Encourager la collaboration, la discussion, l'échange
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/DRE351OXkAAJHxU.jpg" -->
+<!-- .slide: data-background-image="img/equipeecrinum.png" -->
 <!-- .slide: class="hover"-->
 
 ## La CRC sur les écritures numériques
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/DRE351OXkAAJHxU.jpg" -->
+<!-- .slide: data-background-image="img/styloN_facebook.png" -->
 <!-- .slide: class="hover"-->
 
 ## *Stylo* : Un éditeur WYSIWYM pour les SHS
@@ -319,7 +319,11 @@ Comprenez : ce sont les moyens de la production de la pensée qui sont ainsi lai
 * Une solution low-tech et une bonne dose de bricolage
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/DRE351OXkAAJHxU.jpg" -->
+<!-- .slide: data-background-image="img/styloN_facebook.png" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/word.jpeg" -->
 <!-- .slide: class="hover"-->
 
 ## Les maux de l'écriture savante
@@ -398,7 +402,14 @@ On a repris le principe de modularité dans les travaux d'Antoine Fauchié : tou
 Au fur et à mesure de la conception, nous avons pu remplacer un outil par un autre, nous avons pu améliorer ou optimiser tel ou tel aspect de la chaîne.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/DRE351OXkAAJHxU.jpg" -->
+<!-- .slide: data-background-image="img/stylo_fullopen.png" -->
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/stylo_fullInterface_2019_cropped_marqued.png" -->
+
+
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/styloN_facebook.png" -->
 <!-- .slide: class="hover"-->
 
 ## Ce que permet Stylo
