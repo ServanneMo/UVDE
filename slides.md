@@ -454,4 +454,4 @@ Cette culture n'est rien d'autre que la littératie numérique qui ajoute au sav
 
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/lisa.gif" -->
+<!-- .slide: data-background-image="img/lisa.gif" data-background-size="contain" -->
