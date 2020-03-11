@@ -33,7 +33,7 @@ L'écriture sans se prendre la tête
 Kodak : discours ancien des industriels sur une simplicité technique, pour se libérer des contraintes formelles au profit du "fond"
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/alphabetGrec.png" data-background-size="contain" -->
+<!-- .slide: data-background-image="img/thinking.gif" data-background-size="contain" -->
 <!-- .slide: class="hover" -->
 
 ### Pourquoi penser (quand même) à ce qu'on fait quand on écrit ?
@@ -43,7 +43,8 @@ Kodak : discours ancien des industriels sur une simplicité technique, pour se l
 * Comment (ré)apprendre à écrire numériquement ?
 * Outils alternatifs, pensée alternative ?
 
-===
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/lisa.gif" data-background-size="contain" -->
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 <!-- .slide: data-background-image="img/typingsmall.png" data-background-size="contain" -->
@@ -72,6 +73,7 @@ Question subsidiaire : avec les nouveaux outils d'écriture numérique, pense-t-
 * 4000 - 3500 av JC = écritures picto-idéographique
 * 3200 av JC = hiéroglyphes
 * 1000 av JC = écriture alphabétique (un code abstrait)
+* XXe siècle = écritures numériques
 
 ===
 
@@ -243,7 +245,7 @@ Wiki : L'épigénétique (du grec ancien ἐπί, épí, « au-dessus de », et 
 <!-- .slide: class="hover" -->
 
 ## CMS, réseaux sociaux : vers une génération d'illettrés ?
-* Des outils qui permettent d'écrire en ligne sans coder
+* Des outils qui permettent d'écrire en ligne sans coder : systèmes WYSIWYG
 * Une illusion de désintermédiation (effacement des niveaux de l'écriture machine et de l'écriture du code)
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
@@ -261,6 +263,8 @@ L'outil d'écriture majoritaire des écoles, des universités et de toute instit
 Nous avons avoir abandonnées aux GAFAM la réflexion (et l'implémentation) des supports et des techniques de l'écriture et de la lecture. Pourquoi les GAFAM ? parce que Word, parce que la suite Office, parce que Google Doc, parce que Google tout simplement, et tous les algorithmes de recherche et de recommandations qui nous délivrent la vérité. mais aussi Apple, quand on pense aux millions dépensés par le ministère de l'éducation pour équiper les élèves et les étudiants d'ipad.
 
 Comprenez : ce sont les moyens de la production de la pensée qui sont ainsi laissées à quelques entreprises. Or vous savez que les moyens de la pensée ne sont pas sans effets sur la pensée elle-même.
+
+Exemple : nos écritures déterminent notamment la structuration des résultats sur Google. Notre accès à la connaissance est donc largement déterminé par un écriture dont nous n'avons pas toujours conscience.
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/DRE351OXkAAJHxU.jpg" data-background-size="contain"-->
@@ -306,29 +310,36 @@ Comprenez : ce sont les moyens de la production de la pensée qui sont ainsi lai
 ## Outils alternatifs, écritures et pensée alternatives ?
 * S'affranchir des GAFAM
 * Reprendre la main sur la structuration, l'organisation, le sens de notre écriture
+* Vers des systèmes et des outils WYSIWYM
 * Encourager la collaboration, la discussion, l'échange
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/CRCEN.png" -->
 
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/CRCEN.png" -->
+<!-- .slide: class="hover"-->
+
+* Marcello Vitali-Rosati, Nicolas Sauret, Arthur Juchereau, Margot Mellet, et toute l'équipe de [*Sens Public*](http://sens-public.org/)
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/styloN_facebook.png" -->
 <!-- .slide: class="hover"-->
 
 ## *Stylo* : Un éditeur WYSIWYM pour les SHS
-* Un outil pour l'écriture universitaire
+* Un outil pour l'écriture universitaire (ou plus)
 * Une solution low-tech et une bonne dose de bricolage
-
+* Une écriture WYSIWYM : savoir ce que l'on veut dire avant de savoir comment on veut le dire
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/word.jpeg" -->
 <!-- .slide: class="hover"-->
 
-## Les maux de l'écriture savante
-* Un usage de word généralisé
+## Les maux de l'écriture savante (scolaire, en entreprise)
+* Un (mauvais) usage de Word généralisé
 * Dépossession de l'auteur
 * Dépossession de l'éditeur
+  - Prendre soin de l'écrit = prendre soin de la chaîne de production de l'écrit
 
 ===
 
@@ -337,7 +348,6 @@ Au tout début de Stylo, un constat et une frustration : de l'auteur au diffuseu
 Nos différentes discussions avec les différents acteurs de cette chaine, les chercheurs, les éditeurs de revues ou encore les diffuseurs, montrent un paradoxe. L'ensemble de ces acteurs, tout en adhérant au constat d'une chaîne défectueuse sur le plan scientifique, défendent une professionalisation de l'édition, sous-entendu une séparation et une spécialisation des rôles dans le processus de production du document.
 
 Cela s'entend. Pourtant, du docx très souvent mal stylé par l'auteur, comportant une bibliographie non structurée et non articulée au corps de texte, jusqu'à l'épreuve pdf finale, le texte et ses données associées subissent une série de ruptures nécessitant différentes étapes successives d'interprétations, parfois documentaires, parfois scientifiques, qui mettent à mal ce principe de la professionnalisation.
-
 
 Fondamentalement, Stylo est né de la conviction que, en tant qu'universitaire, il convenait de prendre autant soin des écrits que l'on étudiaient que de la chaine de production de l'écrit.
 
@@ -406,9 +416,12 @@ Au fur et à mesure de la conception, nous avons pu remplacer un outil par un au
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/stylo_fullInterface_2019_cropped_marqued.png" background-size="contain" -->
 
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/hypothesis.png" -->
+
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
-<!-- .slide: data-background-image="img/styloN_facebook.png" -->
+<!-- .slide: data-background-image="img/hypothesis.png" -->
 <!-- .slide: class="hover"-->
 
 ## Ce que permet Stylo
@@ -419,7 +432,7 @@ Au fur et à mesure de la conception, nous avons pu remplacer un outil par un au
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/DRE351OXkAAJHxU.jpg" -->
 
-### écrire = écrire + structurer <!-- .element: style="color:#484848;" -->
+### écrire = écrire + structurer (+ converser ?) <!-- .element: style="color:#484848;" -->
 
 ===
 Dans cette vision, l’écriture ne se résume plus seulement à écrire. Ecrire dans l'environnement numérique participe d'une dynamique d'édition, autrement dit l'acte d'écriture s'accompagne nécessairement d'un acte d'édition. Cette idée que écrire = écrire + structurer nous rapproche d'une culture de l'éditorialisation en tant que processus de production de l'espace numérique.
@@ -430,18 +443,15 @@ Cette culture n'est rien d'autre que la littératie numérique qui ajoute au sav
 <!-- .slide: data-background-image="img/pink.png" -->
 <!-- .slide: class="hover"-->
 
-## *Pink my pad* : noter, collaborer
+## *Pink my pad* : noter, collaborer, converser
 * Une prise de note collective **et** collaborative
+* Une écriture polyphonique, plurimédiatique
 * Une structuration des contenus (mots-clés, md)
-* Une possibilité de ludifier les notes (diversité des media)
+* Une possibilité de ludifier les notes
 
 §§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
 <!-- .slide: data-background-image="img/pink.png" -->
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-<!-- .slide: data-background-image="img/DRE351OXkAAJHxU.jpg" -->
-<!-- .slide: class="hover"-->
-
-
-## Merci !
+§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§§
+<!-- .slide: data-background-image="img/thinking.gif" -->
